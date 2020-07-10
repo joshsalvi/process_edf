@@ -1,0 +1,1 @@
+acq_pars,acq_stim,ctf_head_t,description,dev_ctf_t,dig,experimenter,utc_offset,device_info,file_id,highpass,hpi_subsystem,kit_system_id,helium_info,line_freq,lowpass,meas_date,meas_id,proj_id,proj_name,subject_info,xplotter_layout,gantry_angle,bads,chs,comps,events,hpi_meas,hpi_results,projs,proc_history,custom_ref_applied,sfreq,dev_head_t,ch_names,nchan
